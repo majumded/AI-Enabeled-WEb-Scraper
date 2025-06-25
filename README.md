@@ -1,5 +1,8 @@
 # Web Scraper Application
 
+AI Enabeled WEb Scraper - UI
+![AI Enabeled WEb Scraper - UI](https://github.com/majumded/AI-Enabeled-WEb-Scraper/blob/main/Scraper%20Main%20UI.JPG)
+
 A Python-based GUI application for scraping hardware lifecycle information from various vendor websites. This tool is specifically designed to gather End-of-Life (EOL), End-of-Sales (EOS), and End-of-Service dates for IBM hardware models and other vendor equipment.
 
 ## Features
