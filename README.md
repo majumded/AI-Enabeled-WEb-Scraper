@@ -248,6 +248,9 @@ For issues, questions, or contributions:
 
 # GUI Date Extraction Tool (Prompt File Creator)
 
+Prompt File Creator - UI
+![Prompt File Creator - UI](https://github.com/majumded/AI-Enabeled-WEb-Scraper/blob/main/Prompt%20Creator%20UI.JPG)
+
 A comprehensive Python GUI application for extracting business-critical dates from scraped web content. This tool processes Scrap_*.txt files and generates structured prompts for AI-based date extraction, specifically designed for hardware lifecycle management and EOL (End-of-Life) date discovery.
 
 ## 🌟 Features
