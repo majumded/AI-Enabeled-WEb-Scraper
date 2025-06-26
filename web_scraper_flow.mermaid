@@ -1,0 +1,61 @@
+flowchart TD
+    A[Start Application] --> B[Initialize GUI]
+    B --> C[Setup Logging & Session]
+    C --> D[Wait for User Input]
+    
+    D --> E[User Clicks Browse]
+    E --> F[Select Input File]
+    F --> G[Load Hardware Models from File]
+    G --> H[Display Models in Tree View]
+    H --> D
+    
+    D --> I[User Clicks Start Scraping]
+    I --> J{Data Loaded?}
+    J -->|No| K[Show Warning Message]
+    K --> D
+    J -->|Yes| L[Show Confirmation Dialog]
+    L -->|Cancel| D
+    L -->|Confirm| M[Start Scraping Thread]
+    
+    M --> N[Disable Start Button]
+    N --> O[Enable Cancel Button]
+    O --> P[Begin Processing Models]
+    
+    P --> Q[For Each Hardware Model]
+    Q --> R[Search IBM Support Sites]
+    R --> S[Search Alternative Search Engines]
+    S --> T[Scrape Website Content]
+    
+    T --> U{Content Found?}
+    U -->|Yes| V[Extract End-of-Life Info]
+    U -->|No| W[Create Mock Data Entry]
+    
+    V --> X[Save Individual Scrape File]
+    W --> X
+    X --> Y[Add to Results Collection]
+    
+    Y --> Z{More Models?}
+    Z -->|Yes| AA{Cancel Requested?}
+    AA -->|No| Q
+    AA -->|Yes| BB[Stop Scraping]
+    Z -->|No| CC[Save Summary Results]
+    
+    CC --> DD[Display Results in Right Panel]
+    DD --> EE[Update Progress Text]
+    EE --> FF[Re-enable Start Button]
+    FF --> D
+    
+    BB --> GG[Update Status: Cancelled]
+    GG --> FF
+    
+    D --> HH[User Clicks Cancel]
+    HH --> II[Set Cancel Event]
+    II --> BB
+    
+    style A fill:#e1f5fe
+    style M fill:#c8e6c9
+    style T fill:#fff3e0
+    style CC fill:#f3e5f5
+    style BB fill:#ffebee
+    
+    classDef default fill:#e3f2fd,stroke:#1976d2,stroke-width:2px,color:#000
