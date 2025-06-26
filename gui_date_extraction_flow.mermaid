@@ -1,0 +1,89 @@
+flowchart TD
+    A[Start Application] --> B{Choose Approach}
+    
+    %% APPROACH 1: Full GUI
+    B -->|Full GUI| C[Initialize Tkinter GUI]
+    C --> D[Setup UI Components]
+    D --> E[Display Main Window]
+    E --> F[Wait for User Input]
+    
+    F --> G[User Selects Directory]
+    G --> H[Browse for Scrap Files]
+    H --> I[Choose Extraction Mode]
+    I --> J{Simple or Advanced?}
+    
+    J -->|Simple| K[Configure Simple Extractor]
+    J -->|Advanced| L[Configure Advanced Pipeline]
+    
+    K --> M[Set Max Tokens]
+    L --> M
+    M --> N[User Clicks Start]
+    N --> O[Validate Directory & Files]
+    
+    O --> P{Files Found?}
+    P -->|No| Q[Show Warning]
+    Q --> F
+    P -->|Yes| R[Start Background Thread]
+    
+    R --> S[Disable UI Controls]
+    S --> T[Show Progress Bar]
+    T --> U[Run Date Extraction]
+    
+    U --> V{Extraction Success?}
+    V -->|Yes| W[Display Results in GUI]
+    V -->|No| X[Show Error Message]
+    
+    W --> Y[Enable View Summary]
+    X --> Y
+    Y --> Z[Enable Open Output Folder]
+    Z --> AA[Re-enable UI Controls]
+    AA --> F
+    
+    %% APPROACH 2: Simple Button
+    B -->|Simple Button| BB[Create Button Widget]
+    BB --> CC[User Clicks Extract Button]
+    CC --> DD[Quick Directory Selection]
+    DD --> EE[Show Progress Dialog]
+    EE --> FF[Run Advanced Pipeline]
+    FF --> GG{Success?}
+    GG -->|Yes| HH[Show Success Message]
+    GG -->|No| II[Show Error Message]
+    HH --> JJ[Ask to Open Output Folder]
+    II --> JJ
+    JJ --> KK[Close Progress Dialog]
+    
+    %% APPROACH 3: Callback-based
+    B -->|Callback-based| LL[Initialize with Callbacks]
+    LL --> MM[Define Event Handlers]
+    MM --> NN[Call extract_dates Method]
+    NN --> OO[Trigger on_start Callback]
+    OO --> PP[Trigger on_progress Callback]
+    PP --> QQ[Execute Extraction Process]
+    QQ --> RR{Success?}
+    RR -->|Yes| SS[Trigger on_success Callback]
+    RR -->|No| TT[Trigger on_error Callback]
+    SS --> UU[Trigger on_complete Callback]
+    TT --> UU
+    UU --> VV[Return Result]
+    
+    %% Common Extraction Process
+    U --> WW[Load Scrap Files]
+    FF --> WW
+    QQ --> WW
+    WW --> XX[Parse File Content]
+    XX --> YY[Extract Date Patterns]
+    YY --> ZZ[Generate Output Files]
+    ZZ --> AAA[Create Summary Report]
+    AAA --> BBB[Save Results to Directory]
+    
+    %% Styling
+    classDef default fill:#e3f2fd,stroke:#1976d2,stroke-width:2px,color:#000
+    classDef approach1 fill:#e8f5e8,stroke:#4caf50,stroke-width:2px,color:#000
+    classDef approach2 fill:#fff3e0,stroke:#ff9800,stroke-width:2px,color:#000
+    classDef approach3 fill:#f3e5f5,stroke:#9c27b0,stroke-width:2px,color:#000
+    classDef process fill:#ffebee,stroke:#f44336,stroke-width:2px,color:#000
+    
+    class C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA approach1
+    class BB,CC,DD,EE,FF,GG,HH,II,JJ,KK approach2
+    class LL,MM,NN,OO,PP,QQ,RR,SS,TT,UU,VV approach3
+    class WW,XX,YY,ZZ,AAA,BBB process
