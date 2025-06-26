@@ -1,0 +1,845 @@
+2025-06-25 19:41:56,826 - INFO - Web Scraper Application Started
+2025-06-25 19:43:43,960 - INFO - Loaded 210 items from C:/Users/dmajumder4/Downloads/Product_List.txt
+2025-06-25 19:43:47,045 - INFO - Processing model: CISCO,4461 ISR
+2025-06-25 19:43:52,597 - INFO - Model CISCO,4461 ISR not found in content from https://www.ibm.com/support/pages/search?q=CISCO,4461 ISR
+2025-06-25 19:43:55,844 - INFO - Model CISCO,4461 ISR not found in content from https://www.ibm.com/docs/search?q=CISCO,4461 ISR
+2025-06-25 19:44:10,265 - INFO - Processing model: CISCO,4461 ISR
+2025-06-25 19:44:12,490 - INFO - Model CISCO,4461 ISR not found in content from https://www.ibm.com/support/pages/search?q=CISCO,4461 ISR
+2025-06-25 19:44:15,563 - INFO - Model CISCO,4461 ISR not found in content from https://www.ibm.com/docs/search?q=CISCO,4461 ISR
+2025-06-25 19:44:28,789 - INFO - Processing model: CISCO,4461 ISR
+2025-06-25 19:44:31,270 - INFO - Model CISCO,4461 ISR not found in content from https://www.ibm.com/support/pages/search?q=CISCO,4461 ISR
+2025-06-25 19:44:34,839 - INFO - Model CISCO,4461 ISR not found in content from https://www.ibm.com/docs/search?q=CISCO,4461 ISR
+2025-06-25 19:44:49,041 - INFO - Processing model: CISCO,APIC-SERVER-L3
+2025-06-25 19:44:51,178 - INFO - Model CISCO,APIC-SERVER-L3 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,APIC-SERVER-L3
+2025-06-25 19:44:54,202 - INFO - Model CISCO,APIC-SERVER-L3 not found in content from https://www.ibm.com/docs/search?q=CISCO,APIC-SERVER-L3
+2025-06-25 19:45:08,235 - INFO - Processing model: CISCO,APIC-SERVER-L3
+2025-06-25 19:45:10,675 - INFO - Model CISCO,APIC-SERVER-L3 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,APIC-SERVER-L3
+2025-06-25 19:45:14,164 - INFO - Model CISCO,APIC-SERVER-L3 not found in content from https://www.ibm.com/docs/search?q=CISCO,APIC-SERVER-L3
+2025-06-25 19:45:27,471 - INFO - Processing model: CISCO,APIC-SERVER-L3
+2025-06-25 19:45:29,564 - INFO - Model CISCO,APIC-SERVER-L3 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,APIC-SERVER-L3
+2025-06-25 19:45:32,654 - INFO - Model CISCO,APIC-SERVER-L3 not found in content from https://www.ibm.com/docs/search?q=CISCO,APIC-SERVER-L3
+2025-06-25 19:45:34,803 - INFO - Model CISCO,APIC-SERVER-L3 not found in content from https://duckduckgo.com/html/?q=CISCO,APIC-SERVER-L3+end+of+life+support+date
+2025-06-25 19:45:45,315 - INFO - Processing model: CISCO,APIC-SERVER-L4
+2025-06-25 19:45:47,829 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,APIC-SERVER-L4
+2025-06-25 19:45:52,538 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://www.ibm.com/docs/search?q=CISCO,APIC-SERVER-L4
+2025-06-25 19:45:54,676 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://duckduckgo.com/html/?q=CISCO,APIC-SERVER-L4+end+of+life+support+date
+2025-06-25 19:46:04,895 - INFO - Processing model: CISCO,APIC-SERVER-L4
+2025-06-25 19:46:10,401 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,APIC-SERVER-L4
+2025-06-25 19:46:13,421 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://www.ibm.com/docs/search?q=CISCO,APIC-SERVER-L4
+2025-06-25 19:46:15,629 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://duckduckgo.com/html/?q=CISCO,APIC-SERVER-L4+end+of+life+support+date
+2025-06-25 19:46:26,379 - INFO - Processing model: CISCO,APIC-SERVER-L4
+2025-06-25 19:46:29,382 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,APIC-SERVER-L4
+2025-06-25 19:46:32,431 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://www.ibm.com/docs/search?q=CISCO,APIC-SERVER-L4
+2025-06-25 19:46:34,670 - INFO - Model CISCO,APIC-SERVER-L4 not found in content from https://duckduckgo.com/html/?q=CISCO,APIC-SERVER-L4+end+of+life+support+date
+2025-06-25 19:46:44,796 - INFO - Processing model: CISCO,ASR 1001-HX
+2025-06-25 19:46:47,680 - INFO - Model CISCO,ASR 1001-HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1001-HX
+2025-06-25 19:46:50,678 - INFO - Model CISCO,ASR 1001-HX not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1001-HX
+2025-06-25 19:46:52,969 - INFO - Model CISCO,ASR 1001-HX not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1001-HX+end+of+life+support+date
+2025-06-25 19:47:03,704 - INFO - Processing model: CISCO,ASR 1001-HX
+2025-06-25 19:47:05,322 - INFO - Model CISCO,ASR 1001-HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1001-HX
+2025-06-25 19:47:09,205 - INFO - Model CISCO,ASR 1001-HX not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1001-HX
+2025-06-25 19:47:11,902 - INFO - Model CISCO,ASR 1001-HX not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1001-HX+end+of+life+support+date
+2025-06-25 19:47:22,669 - INFO - Processing model: CISCO,ASR 1001-HX
+2025-06-25 19:47:25,367 - INFO - Model CISCO,ASR 1001-HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1001-HX
+2025-06-25 19:47:28,404 - INFO - Model CISCO,ASR 1001-HX not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1001-HX
+2025-06-25 19:47:30,656 - INFO - Model CISCO,ASR 1001-HX not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1001-HX+end+of+life+support+date
+2025-06-25 19:47:41,335 - INFO - Processing model: CISCO,ASR 1002-HX
+2025-06-25 19:47:43,936 - INFO - Model CISCO,ASR 1002-HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1002-HX
+2025-06-25 19:47:49,717 - INFO - Model CISCO,ASR 1002-HX not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1002-HX
+2025-06-25 19:47:51,948 - INFO - Model CISCO,ASR 1002-HX not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1002-HX+end+of+life+support+date
+2025-06-25 19:48:02,607 - INFO - Processing model: CISCO,ASR 1002-HX
+2025-06-25 19:48:07,417 - INFO - Model CISCO,ASR 1002-HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1002-HX
+2025-06-25 19:48:11,228 - INFO - Model CISCO,ASR 1002-HX not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1002-HX
+2025-06-25 19:48:13,454 - INFO - Model CISCO,ASR 1002-HX not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1002-HX+end+of+life+support+date
+2025-06-25 19:48:24,079 - INFO - Processing model: CISCO,ASR 1002-HX
+2025-06-25 19:48:28,524 - INFO - Model CISCO,ASR 1002-HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1002-HX
+2025-06-25 19:48:32,740 - INFO - Model CISCO,ASR 1002-HX not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1002-HX
+2025-06-25 19:48:34,942 - INFO - Model CISCO,ASR 1002-HX not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1002-HX+end+of+life+support+date
+2025-06-25 19:48:45,377 - INFO - Processing model: CISCO,ASR 1002-X
+2025-06-25 19:48:47,338 - INFO - Model CISCO,ASR 1002-X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1002-X
+2025-06-25 19:48:50,431 - INFO - Model CISCO,ASR 1002-X not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1002-X
+2025-06-25 19:48:52,684 - INFO - Model CISCO,ASR 1002-X not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1002-X+end+of+life+support+date
+2025-06-25 19:49:03,318 - INFO - Processing model: CISCO,ASR 1002-X
+2025-06-25 19:49:04,858 - INFO - Model CISCO,ASR 1002-X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1002-X
+2025-06-25 19:49:07,935 - INFO - Model CISCO,ASR 1002-X not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1002-X
+2025-06-25 19:49:10,148 - INFO - Model CISCO,ASR 1002-X not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1002-X+end+of+life+support+date
+2025-06-25 19:49:20,833 - INFO - Processing model: CISCO,ASR 1002-X
+2025-06-25 19:49:23,750 - INFO - Model CISCO,ASR 1002-X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1002-X
+2025-06-25 19:49:28,449 - INFO - Model CISCO,ASR 1002-X not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1002-X
+2025-06-25 19:49:30,675 - INFO - Model CISCO,ASR 1002-X not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1002-X+end+of+life+support+date
+2025-06-25 19:49:41,140 - INFO - Processing model: CISCO,ASR 1004
+2025-06-25 19:49:43,109 - INFO - Model CISCO,ASR 1004 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1004
+2025-06-25 19:49:46,251 - INFO - Model CISCO,ASR 1004 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1004
+2025-06-25 19:49:48,457 - INFO - Model CISCO,ASR 1004 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1004+end+of+life+support+date
+2025-06-25 19:49:59,431 - INFO - Processing model: CISCO,ASR 1004
+2025-06-25 19:50:01,830 - INFO - Model CISCO,ASR 1004 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1004
+2025-06-25 19:50:04,930 - INFO - Model CISCO,ASR 1004 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1004
+2025-06-25 19:50:07,161 - INFO - Model CISCO,ASR 1004 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1004+end+of+life+support+date
+2025-06-25 19:50:17,747 - INFO - Processing model: CISCO,ASR 1004
+2025-06-25 19:50:19,847 - INFO - Model CISCO,ASR 1004 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1004
+2025-06-25 19:50:23,261 - INFO - Model CISCO,ASR 1004 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1004
+2025-06-25 19:50:25,518 - INFO - Model CISCO,ASR 1004 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1004+end+of+life+support+date
+2025-06-25 19:50:35,807 - INFO - Processing model: CISCO,ASR 1006
+2025-06-25 19:50:39,092 - INFO - Model CISCO,ASR 1006 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1006
+2025-06-25 19:50:42,273 - INFO - Model CISCO,ASR 1006 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1006
+2025-06-25 19:50:44,517 - INFO - Model CISCO,ASR 1006 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1006+end+of+life+support+date
+2025-06-25 19:50:55,387 - INFO - Processing model: CISCO,ASR 1006
+2025-06-25 19:50:58,188 - INFO - Model CISCO,ASR 1006 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1006
+2025-06-25 19:51:01,295 - INFO - Model CISCO,ASR 1006 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1006
+2025-06-25 19:51:03,521 - INFO - Model CISCO,ASR 1006 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1006+end+of+life+support+date
+2025-06-25 19:51:14,272 - INFO - Processing model: CISCO,ASR 1006
+2025-06-25 19:51:16,472 - INFO - Model CISCO,ASR 1006 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 1006
+2025-06-25 19:51:19,608 - INFO - Model CISCO,ASR 1006 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 1006
+2025-06-25 19:51:21,821 - INFO - Model CISCO,ASR 1006 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+1006+end+of+life+support+date
+2025-06-25 19:51:32,704 - INFO - Processing model: CISCO,ASR 907
+2025-06-25 19:51:35,589 - INFO - Model CISCO,ASR 907 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 907
+2025-06-25 19:51:39,195 - INFO - Model CISCO,ASR 907 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 907
+2025-06-25 19:51:41,452 - INFO - Model CISCO,ASR 907 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+907+end+of+life+support+date
+2025-06-25 19:51:52,778 - INFO - Processing model: CISCO,ASR 907
+2025-06-25 19:51:56,207 - INFO - Model CISCO,ASR 907 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 907
+2025-06-25 19:52:00,308 - INFO - Model CISCO,ASR 907 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 907
+2025-06-25 19:52:02,574 - INFO - Model CISCO,ASR 907 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+907+end+of+life+support+date
+2025-06-25 19:52:13,312 - INFO - Processing model: CISCO,ASR 907
+2025-06-25 19:52:18,162 - INFO - Model CISCO,ASR 907 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ASR 907
+2025-06-25 19:52:21,611 - INFO - Model CISCO,ASR 907 not found in content from https://www.ibm.com/docs/search?q=CISCO,ASR 907
+2025-06-25 19:52:23,848 - INFO - Model CISCO,ASR 907 not found in content from https://duckduckgo.com/html/?q=CISCO,ASR+907+end+of+life+support+date
+2025-06-25 19:52:34,552 - INFO - Processing model: CISCO,C1100TG
+2025-06-25 19:52:38,916 - INFO - Model CISCO,C1100TG not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1100TG
+2025-06-25 19:52:42,400 - INFO - Model CISCO,C1100TG not found in content from https://www.ibm.com/docs/search?q=CISCO,C1100TG
+2025-06-25 19:52:44,652 - INFO - Model CISCO,C1100TG not found in content from https://duckduckgo.com/html/?q=CISCO,C1100TG+end+of+life+support+date
+2025-06-25 19:52:55,755 - INFO - Processing model: CISCO,C1100TG
+2025-06-25 19:52:58,473 - INFO - Model CISCO,C1100TG not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1100TG
+2025-06-25 19:53:01,760 - INFO - Model CISCO,C1100TG not found in content from https://www.ibm.com/docs/search?q=CISCO,C1100TG
+2025-06-25 19:53:04,852 - INFO - Model CISCO,C1100TG not found in content from https://duckduckgo.com/html/?q=CISCO,C1100TG+end+of+life+support+date
+2025-06-25 19:53:15,692 - INFO - Processing model: CISCO,C1100TG
+2025-06-25 19:53:17,804 - INFO - Model CISCO,C1100TG not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1100TG
+2025-06-25 19:53:21,005 - INFO - Model CISCO,C1100TG not found in content from https://www.ibm.com/docs/search?q=CISCO,C1100TG
+2025-06-25 19:53:23,252 - INFO - Model CISCO,C1100TG not found in content from https://duckduckgo.com/html/?q=CISCO,C1100TG+end+of+life+support+date
+2025-06-25 19:53:34,182 - INFO - Processing model: CISCO,C1101-4P
+2025-06-25 19:53:36,904 - INFO - Model CISCO,C1101-4P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1101-4P
+2025-06-25 19:53:40,027 - INFO - Model CISCO,C1101-4P not found in content from https://www.ibm.com/docs/search?q=CISCO,C1101-4P
+2025-06-25 19:53:42,265 - INFO - Model CISCO,C1101-4P not found in content from https://duckduckgo.com/html/?q=CISCO,C1101-4P+end+of+life+support+date
+2025-06-25 19:53:53,219 - INFO - Processing model: CISCO,C1101-4P
+2025-06-25 19:53:54,875 - INFO - Model CISCO,C1101-4P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1101-4P
+2025-06-25 19:53:58,157 - INFO - Model CISCO,C1101-4P not found in content from https://www.ibm.com/docs/search?q=CISCO,C1101-4P
+2025-06-25 19:54:00,380 - INFO - Model CISCO,C1101-4P not found in content from https://duckduckgo.com/html/?q=CISCO,C1101-4P+end+of+life+support+date
+2025-06-25 19:54:11,068 - INFO - Processing model: CISCO,C1101-4P
+2025-06-25 19:54:13,944 - INFO - Model CISCO,C1101-4P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1101-4P
+2025-06-25 19:54:17,024 - INFO - Model CISCO,C1101-4P not found in content from https://www.ibm.com/docs/search?q=CISCO,C1101-4P
+2025-06-25 19:54:19,244 - INFO - Model CISCO,C1101-4P not found in content from https://duckduckgo.com/html/?q=CISCO,C1101-4P+end+of+life+support+date
+2025-06-25 19:54:30,031 - INFO - Processing model: CISCO,C1121-4PLTEP
+2025-06-25 19:54:34,061 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1121-4PLTEP
+2025-06-25 19:54:37,912 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://www.ibm.com/docs/search?q=CISCO,C1121-4PLTEP
+2025-06-25 19:54:40,140 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://duckduckgo.com/html/?q=CISCO,C1121-4PLTEP+end+of+life+support+date
+2025-06-25 19:54:50,937 - INFO - Processing model: CISCO,C1121-4PLTEP
+2025-06-25 19:54:53,849 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1121-4PLTEP
+2025-06-25 19:54:57,054 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://www.ibm.com/docs/search?q=CISCO,C1121-4PLTEP
+2025-06-25 19:54:59,287 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://duckduckgo.com/html/?q=CISCO,C1121-4PLTEP+end+of+life+support+date
+2025-06-25 19:55:09,912 - INFO - Processing model: CISCO,C1121-4PLTEP
+2025-06-25 19:55:13,134 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C1121-4PLTEP
+2025-06-25 19:55:16,183 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://www.ibm.com/docs/search?q=CISCO,C1121-4PLTEP
+2025-06-25 19:55:18,412 - INFO - Model CISCO,C1121-4PLTEP not found in content from https://duckduckgo.com/html/?q=CISCO,C1121-4PLTEP+end+of+life+support+date
+2025-06-25 19:55:29,208 - INFO - Processing model: CISCO,C8200L-1N-4T
+2025-06-25 19:55:31,166 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8200L-1N-4T
+2025-06-25 19:55:34,163 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8200L-1N-4T
+2025-06-25 19:55:36,430 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://duckduckgo.com/html/?q=CISCO,C8200L-1N-4T+end+of+life+support+date
+2025-06-25 19:55:47,454 - INFO - Processing model: CISCO,C8200L-1N-4T
+2025-06-25 19:55:49,844 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8200L-1N-4T
+2025-06-25 19:55:53,593 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8200L-1N-4T
+2025-06-25 19:55:55,814 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://duckduckgo.com/html/?q=CISCO,C8200L-1N-4T+end+of+life+support+date
+2025-06-25 19:56:06,532 - INFO - Processing model: CISCO,C8200L-1N-4T
+2025-06-25 19:56:12,212 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8200L-1N-4T
+2025-06-25 19:56:15,176 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8200L-1N-4T
+2025-06-25 19:56:17,371 - INFO - Model CISCO,C8200L-1N-4T not found in content from https://duckduckgo.com/html/?q=CISCO,C8200L-1N-4T+end+of+life+support+date
+2025-06-25 19:56:28,297 - INFO - Processing model: CISCO,C8300-1N1S-6T
+2025-06-25 19:56:30,097 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-1N1S-6T
+2025-06-25 19:56:33,784 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-1N1S-6T
+2025-06-25 19:56:36,378 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-1N1S-6T+end+of+life+support+date
+2025-06-25 19:56:47,336 - INFO - Processing model: CISCO,C8300-1N1S-6T
+2025-06-25 19:56:48,830 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-1N1S-6T
+2025-06-25 19:56:52,432 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-1N1S-6T
+2025-06-25 19:56:54,659 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-1N1S-6T+end+of+life+support+date
+2025-06-25 19:57:05,368 - INFO - Processing model: CISCO,C8300-1N1S-6T
+2025-06-25 19:57:08,070 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-1N1S-6T
+2025-06-25 19:57:19,372 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-1N1S-6T
+2025-06-25 19:57:21,596 - INFO - Model CISCO,C8300-1N1S-6T not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-1N1S-6T+end+of+life+support+date
+2025-06-25 19:57:32,593 - INFO - Processing model: CISCO,C8300-2N2S-4T2X
+2025-06-25 19:57:35,167 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-2N2S-4T2X
+2025-06-25 19:57:38,262 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-2N2S-4T2X
+2025-06-25 19:57:40,503 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-2N2S-4T2X+end+of+life+support+date
+2025-06-25 19:57:51,143 - INFO - Processing model: CISCO,C8300-2N2S-4T2X
+2025-06-25 19:57:53,186 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-2N2S-4T2X
+2025-06-25 19:57:56,498 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-2N2S-4T2X
+2025-06-25 19:57:58,728 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-2N2S-4T2X+end+of+life+support+date
+2025-06-25 19:58:09,314 - INFO - Processing model: CISCO,C8300-2N2S-4T2X
+2025-06-25 19:58:11,831 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-2N2S-4T2X
+2025-06-25 19:58:14,887 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-2N2S-4T2X
+2025-06-25 19:58:17,131 - INFO - Model CISCO,C8300-2N2S-4T2X not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-2N2S-4T2X+end+of+life+support+date
+2025-06-25 19:58:28,099 - INFO - Processing model: CISCO,C8300-2N2S-6T
+2025-06-25 19:58:30,806 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-2N2S-6T
+2025-06-25 19:58:33,872 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-2N2S-6T
+2025-06-25 19:58:36,082 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-2N2S-6T+end+of+life+support+date
+2025-06-25 19:58:46,986 - INFO - Processing model: CISCO,C8300-2N2S-6T
+2025-06-25 19:58:49,447 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-2N2S-6T
+2025-06-25 19:58:56,963 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-2N2S-6T
+2025-06-25 19:58:59,183 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-2N2S-6T+end+of+life+support+date
+2025-06-25 19:59:09,797 - INFO - Processing model: CISCO,C8300-2N2S-6T
+2025-06-25 19:59:12,666 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8300-2N2S-6T
+2025-06-25 19:59:16,123 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://www.ibm.com/docs/search?q=CISCO,C8300-2N2S-6T
+2025-06-25 19:59:18,359 - INFO - Model CISCO,C8300-2N2S-6T not found in content from https://duckduckgo.com/html/?q=CISCO,C8300-2N2S-6T+end+of+life+support+date
+2025-06-25 19:59:29,521 - INFO - Processing model: CISCO,C8500-12X
+2025-06-25 19:59:31,538 - INFO - Model CISCO,C8500-12X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8500-12X
+2025-06-25 19:59:35,599 - INFO - Model CISCO,C8500-12X not found in content from https://www.ibm.com/docs/search?q=CISCO,C8500-12X
+2025-06-25 19:59:37,813 - INFO - Model CISCO,C8500-12X not found in content from https://duckduckgo.com/html/?q=CISCO,C8500-12X+end+of+life+support+date
+2025-06-25 19:59:48,887 - INFO - Processing model: CISCO,C8500-12X
+2025-06-25 19:59:51,595 - INFO - Model CISCO,C8500-12X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8500-12X
+2025-06-25 19:59:54,781 - INFO - Model CISCO,C8500-12X not found in content from https://www.ibm.com/docs/search?q=CISCO,C8500-12X
+2025-06-25 19:59:57,000 - INFO - Model CISCO,C8500-12X not found in content from https://duckduckgo.com/html/?q=CISCO,C8500-12X+end+of+life+support+date
+2025-06-25 20:00:07,899 - INFO - Processing model: CISCO,C8500-12X
+2025-06-25 20:00:09,776 - INFO - Model CISCO,C8500-12X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C8500-12X
+2025-06-25 20:00:18,947 - INFO - Model CISCO,C8500-12X not found in content from https://www.ibm.com/docs/search?q=CISCO,C8500-12X
+2025-06-25 20:00:21,476 - INFO - Model CISCO,C8500-12X not found in content from https://duckduckgo.com/html/?q=CISCO,C8500-12X+end+of+life+support+date
+2025-06-25 20:00:32,036 - INFO - Processing model: CISCO,C9300X-24HX
+2025-06-25 20:00:34,108 - INFO - Model CISCO,C9300X-24HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C9300X-24HX
+2025-06-25 20:00:37,112 - INFO - Model CISCO,C9300X-24HX not found in content from https://www.ibm.com/docs/search?q=CISCO,C9300X-24HX
+2025-06-25 20:00:39,350 - INFO - Model CISCO,C9300X-24HX not found in content from https://duckduckgo.com/html/?q=CISCO,C9300X-24HX+end+of+life+support+date
+2025-06-25 20:00:50,216 - INFO - Processing model: CISCO,C9300X-24HX
+2025-06-25 20:00:52,617 - INFO - Model CISCO,C9300X-24HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C9300X-24HX
+2025-06-25 20:00:55,637 - INFO - Model CISCO,C9300X-24HX not found in content from https://www.ibm.com/docs/search?q=CISCO,C9300X-24HX
+2025-06-25 20:00:57,840 - INFO - Model CISCO,C9300X-24HX not found in content from https://duckduckgo.com/html/?q=CISCO,C9300X-24HX+end+of+life+support+date
+2025-06-25 20:01:08,695 - INFO - Processing model: CISCO,C9300X-24HX
+2025-06-25 20:01:10,083 - INFO - Model CISCO,C9300X-24HX not found in content from https://www.ibm.com/support/pages/search?q=CISCO,C9300X-24HX
+2025-06-25 20:01:13,157 - INFO - Model CISCO,C9300X-24HX not found in content from https://www.ibm.com/docs/search?q=CISCO,C9300X-24HX
+2025-06-25 20:01:15,416 - INFO - Model CISCO,C9300X-24HX not found in content from https://duckduckgo.com/html/?q=CISCO,C9300X-24HX+end+of+life+support+date
+2025-06-25 20:01:26,041 - INFO - Processing model: CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:01:43,262 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.ibm.com', port=443): Read timed out. (read timeout=15)")': /support/pages/search/node
+2025-06-25 20:01:44,522 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:01:49,457 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:01:51,688 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+2960CG-8TC-L+end+of+life+support+date
+2025-06-25 20:02:02,640 - INFO - Processing model: CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:02:04,616 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:02:07,754 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:02:09,966 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+2960CG-8TC-L+end+of+life+support+date
+2025-06-25 20:02:20,780 - INFO - Processing model: CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:02:22,999 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:02:26,123 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 2960CG-8TC-L
+2025-06-25 20:02:28,343 - INFO - Model CISCO,CATALYST 2960CG-8TC-L not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+2960CG-8TC-L+end+of+life+support+date
+2025-06-25 20:02:39,108 - INFO - Processing model: CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:02:40,910 - INFO - Model CISCO,CATALYST 2960CX-8PC-L not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:02:44,054 - INFO - Model CISCO,CATALYST 2960CX-8PC-L not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:02:46,263 - INFO - Model CISCO,CATALYST 2960CX-8PC-L not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+2960CX-8PC-L+end+of+life+support+date
+2025-06-25 20:02:57,405 - INFO - Processing model: CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:02:59,782 - INFO - Model CISCO,CATALYST 2960CX-8PC-L not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:03:05,900 - INFO - Model CISCO,CATALYST 2960CX-8PC-L not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:03:08,139 - INFO - Model CISCO,CATALYST 2960CX-8PC-L not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+2960CX-8PC-L+end+of+life+support+date
+2025-06-25 20:03:19,003 - INFO - Processing model: CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:03:21,161 - INFO - Model CISCO,CATALYST 2960CX-8PC-L not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:03:24,327 - INFO - Model CISCO,CATALYST 2960CX-8PC-L not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 2960CX-8PC-L
+2025-06-25 20:03:26,512 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+2960CX-8PC-L+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+2960CX-8PC-L+end+of+life+support+date&kp=1
+2025-06-25 20:03:37,417 - INFO - Processing model: CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:03:40,172 - INFO - Model CISCO,CATALYST 8500-12X4QC not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:03:43,212 - INFO - Model CISCO,CATALYST 8500-12X4QC not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:03:45,408 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+8500-12X4QC+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+8500-12X4QC+end+of+life+support+date&kp=1
+2025-06-25 20:03:56,405 - INFO - Processing model: CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:03:59,197 - INFO - Model CISCO,CATALYST 8500-12X4QC not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:04:02,504 - INFO - Model CISCO,CATALYST 8500-12X4QC not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:04:04,695 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+8500-12X4QC+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+8500-12X4QC+end+of+life+support+date&kp=1
+2025-06-25 20:04:15,368 - INFO - Processing model: CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:04:17,794 - INFO - Model CISCO,CATALYST 8500-12X4QC not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:04:22,801 - INFO - Model CISCO,CATALYST 8500-12X4QC not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 8500-12X4QC
+2025-06-25 20:04:24,999 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+8500-12X4QC+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+8500-12X4QC+end+of+life+support+date&kp=1
+2025-06-25 20:04:35,635 - INFO - Processing model: CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:04:39,049 - INFO - Model CISCO,CATALYST 8500L-8S4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:04:42,176 - INFO - Model CISCO,CATALYST 8500L-8S4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:04:44,383 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+8500L-8S4X+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+8500L-8S4X+end+of+life+support+date&kp=1
+2025-06-25 20:04:55,368 - INFO - Processing model: CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:05:00,502 - INFO - Model CISCO,CATALYST 8500L-8S4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:05:04,131 - INFO - Model CISCO,CATALYST 8500L-8S4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:05:06,401 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+8500L-8S4X+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+8500L-8S4X+end+of+life+support+date&kp=1
+2025-06-25 20:05:17,512 - INFO - Processing model: CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:05:19,507 - INFO - Model CISCO,CATALYST 8500L-8S4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:05:22,676 - INFO - Model CISCO,CATALYST 8500L-8S4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 8500L-8S4X
+2025-06-25 20:05:24,856 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+8500L-8S4X+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+8500L-8S4X+end+of+life+support+date&kp=1
+2025-06-25 20:05:35,706 - INFO - Processing model: CISCO,CATALYST 9200-24T
+2025-06-25 20:05:38,807 - INFO - Model CISCO,CATALYST 9200-24T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200-24T
+2025-06-25 20:05:42,020 - INFO - Model CISCO,CATALYST 9200-24T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200-24T
+2025-06-25 20:05:44,543 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+9200-24T+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+9200-24T+end+of+life+support+date&kp=1
+2025-06-25 20:05:55,574 - INFO - Processing model: CISCO,CATALYST 9200-24T
+2025-06-25 20:05:57,854 - INFO - Model CISCO,CATALYST 9200-24T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200-24T
+2025-06-25 20:06:01,450 - INFO - Model CISCO,CATALYST 9200-24T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200-24T
+2025-06-25 20:06:04,586 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+9200-24T+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+9200-24T+end+of+life+support+date&kp=1
+2025-06-25 20:06:15,558 - INFO - Processing model: CISCO,CATALYST 9200-24T
+2025-06-25 20:06:19,349 - INFO - Model CISCO,CATALYST 9200-24T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200-24T
+2025-06-25 20:06:26,055 - INFO - Model CISCO,CATALYST 9200-24T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200-24T
+2025-06-25 20:06:28,260 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+9200-24T+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+9200-24T+end+of+life+support+date&kp=1
+2025-06-25 20:06:39,113 - INFO - Processing model: CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:06:43,651 - INFO - Model CISCO,CATALYST 9200L 24 4X1G not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:06:47,159 - INFO - Model CISCO,CATALYST 9200L 24 4X1G not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:06:49,353 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+9200L+24+4X1G+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+9200L+24+4X1G+end+of+life+support+date&kp=1
+2025-06-25 20:07:00,328 - INFO - Processing model: CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:07:02,417 - INFO - Model CISCO,CATALYST 9200L 24 4X1G not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:07:05,671 - INFO - Model CISCO,CATALYST 9200L 24 4X1G not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:07:07,866 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+9200L+24+4X1G+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+9200L+24+4X1G+end+of+life+support+date&kp=1
+2025-06-25 20:07:18,690 - INFO - Processing model: CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:07:21,660 - INFO - Model CISCO,CATALYST 9200L 24 4X1G not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:07:25,256 - INFO - Model CISCO,CATALYST 9200L 24 4X1G not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200L 24 4X1G
+2025-06-25 20:07:27,436 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+9200L+24+4X1G+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+9200L+24+4X1G+end+of+life+support+date&kp=1
+2025-06-25 20:07:38,120 - INFO - Processing model: CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:07:39,932 - INFO - Model CISCO,CATALYST 9200L-48T-4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:07:43,004 - INFO - Model CISCO,CATALYST 9200L-48T-4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:07:45,186 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+9200L-48T-4X+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+9200L-48T-4X+end+of+life+support+date&kp=1
+2025-06-25 20:07:56,243 - INFO - Processing model: CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:07:57,987 - INFO - Model CISCO,CATALYST 9200L-48T-4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:08:01,026 - INFO - Model CISCO,CATALYST 9200L-48T-4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:08:03,253 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,CATALYST+9200L-48T-4X+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,CATALYST+9200L-48T-4X+end+of+life+support+date&kp=1
+2025-06-25 20:08:13,971 - INFO - Processing model: CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:08:16,287 - INFO - Model CISCO,CATALYST 9200L-48T-4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:08:19,649 - INFO - Model CISCO,CATALYST 9200L-48T-4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9200L-48T-4X
+2025-06-25 20:08:21,886 - INFO - Model CISCO,CATALYST 9200L-48T-4X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9200L-48T-4X+end+of+life+support+date
+2025-06-25 20:08:32,536 - INFO - Processing model: CISCO,CATALYST 9300-24T
+2025-06-25 20:08:37,387 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-24T
+2025-06-25 20:08:40,496 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-24T
+2025-06-25 20:08:42,733 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-24T+end+of+life+support+date
+2025-06-25 20:08:53,713 - INFO - Processing model: CISCO,CATALYST 9300-24T
+2025-06-25 20:08:59,603 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-24T
+2025-06-25 20:09:02,899 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-24T
+2025-06-25 20:09:05,150 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-24T+end+of+life+support+date
+2025-06-25 20:09:15,681 - INFO - Processing model: CISCO,CATALYST 9300-24T
+2025-06-25 20:09:18,297 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-24T
+2025-06-25 20:09:27,462 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-24T
+2025-06-25 20:09:29,678 - INFO - Model CISCO,CATALYST 9300-24T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-24T+end+of+life+support+date
+2025-06-25 20:09:40,389 - INFO - Processing model: CISCO,CATALYST 9300-48P
+2025-06-25 20:09:43,955 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-48P
+2025-06-25 20:09:47,495 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-48P
+2025-06-25 20:09:49,765 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-48P+end+of+life+support+date
+2025-06-25 20:10:00,592 - INFO - Processing model: CISCO,CATALYST 9300-48P
+2025-06-25 20:10:05,705 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-48P
+2025-06-25 20:10:10,678 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-48P
+2025-06-25 20:10:12,908 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-48P+end+of+life+support+date
+2025-06-25 20:10:23,472 - INFO - Processing model: CISCO,CATALYST 9300-48P
+2025-06-25 20:10:25,789 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-48P
+2025-06-25 20:10:29,244 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-48P
+2025-06-25 20:10:31,471 - INFO - Model CISCO,CATALYST 9300-48P not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-48P+end+of+life+support+date
+2025-06-25 20:10:42,143 - INFO - Processing model: CISCO,CATALYST 9300-48T
+2025-06-25 20:10:45,944 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-48T
+2025-06-25 20:10:49,301 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-48T
+2025-06-25 20:10:51,538 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-48T+end+of+life+support+date
+2025-06-25 20:11:02,771 - INFO - Processing model: CISCO,CATALYST 9300-48T
+2025-06-25 20:11:04,957 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-48T
+2025-06-25 20:11:08,017 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-48T
+2025-06-25 20:11:10,238 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-48T+end+of+life+support+date
+2025-06-25 20:11:20,862 - INFO - Processing model: CISCO,CATALYST 9300-48T
+2025-06-25 20:11:22,497 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300-48T
+2025-06-25 20:11:25,687 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300-48T
+2025-06-25 20:11:27,914 - INFO - Model CISCO,CATALYST 9300-48T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300-48T+end+of+life+support+date
+2025-06-25 20:11:38,852 - INFO - Processing model: CISCO,CATALYST 9300X-12Y
+2025-06-25 20:11:42,419 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300X-12Y
+2025-06-25 20:11:47,713 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300X-12Y
+2025-06-25 20:11:49,936 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300X-12Y+end+of+life+support+date
+2025-06-25 20:12:00,695 - INFO - Processing model: CISCO,CATALYST 9300X-12Y
+2025-06-25 20:12:03,150 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300X-12Y
+2025-06-25 20:12:06,566 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300X-12Y
+2025-06-25 20:12:08,782 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300X-12Y+end+of+life+support+date
+2025-06-25 20:12:19,411 - INFO - Processing model: CISCO,CATALYST 9300X-12Y
+2025-06-25 20:12:22,229 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9300X-12Y
+2025-06-25 20:12:25,493 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9300X-12Y
+2025-06-25 20:12:27,754 - INFO - Model CISCO,CATALYST 9300X-12Y not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9300X-12Y+end+of+life+support+date
+2025-06-25 20:12:38,984 - INFO - Processing model: CISCO,CATALYST 9407/3200W
+2025-06-25 20:12:41,069 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9407/3200W
+2025-06-25 20:12:44,281 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9407/3200W
+2025-06-25 20:12:46,522 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9407/3200W+end+of+life+support+date
+2025-06-25 20:12:57,382 - INFO - Processing model: CISCO,CATALYST 9407/3200W
+2025-06-25 20:13:13,727 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.ibm.com', port=443): Read timed out. (read timeout=15)")': /support/pages/search/node
+2025-06-25 20:13:18,013 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9407/3200W
+2025-06-25 20:13:22,702 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9407/3200W
+2025-06-25 20:13:25,465 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9407/3200W+end+of+life+support+date
+2025-06-25 20:13:36,731 - INFO - Processing model: CISCO,CATALYST 9407/3200W
+2025-06-25 20:13:38,303 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9407/3200W
+2025-06-25 20:13:41,470 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9407/3200W
+2025-06-25 20:13:43,707 - INFO - Model CISCO,CATALYST 9407/3200W not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9407/3200W+end+of+life+support+date
+2025-06-25 20:13:54,468 - INFO - Processing model: CISCO,CATALYST 9500-16X
+2025-06-25 20:13:56,421 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-16X
+2025-06-25 20:13:59,664 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-16X
+2025-06-25 20:14:01,892 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-16X+end+of+life+support+date
+2025-06-25 20:14:13,085 - INFO - Processing model: CISCO,CATALYST 9500-16X
+2025-06-25 20:14:14,630 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-16X
+2025-06-25 20:14:18,209 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-16X
+2025-06-25 20:14:20,475 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-16X+end+of+life+support+date
+2025-06-25 20:14:31,117 - INFO - Processing model: CISCO,CATALYST 9500-16X
+2025-06-25 20:14:32,764 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-16X
+2025-06-25 20:14:35,924 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-16X
+2025-06-25 20:14:38,159 - INFO - Model CISCO,CATALYST 9500-16X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-16X+end+of+life+support+date
+2025-06-25 20:14:48,974 - INFO - Processing model: CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:14:50,670 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:14:54,194 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:14:56,428 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-24Y4C+end+of+life+support+date
+2025-06-25 20:15:07,672 - INFO - Processing model: CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:15:09,461 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:15:12,453 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:15:14,698 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-24Y4C+end+of+life+support+date
+2025-06-25 20:15:25,312 - INFO - Processing model: CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:15:27,501 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:15:31,332 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-24Y4C
+2025-06-25 20:15:33,538 - INFO - Model CISCO,CATALYST 9500-24Y4C not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-24Y4C+end+of+life+support+date
+2025-06-25 20:15:44,157 - INFO - Processing model: CISCO,CATALYST 9500-40X
+2025-06-25 20:15:45,689 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-40X
+2025-06-25 20:15:49,091 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-40X
+2025-06-25 20:15:51,340 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-40X+end+of+life+support+date
+2025-06-25 20:16:02,305 - INFO - Processing model: CISCO,CATALYST 9500-40X
+2025-06-25 20:16:04,720 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-40X
+2025-06-25 20:16:07,985 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-40X
+2025-06-25 20:16:10,523 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-40X+end+of+life+support+date
+2025-06-25 20:16:21,393 - INFO - Processing model: CISCO,CATALYST 9500-40X
+2025-06-25 20:16:25,942 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9500-40X
+2025-06-25 20:16:34,496 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9500-40X
+2025-06-25 20:16:37,649 - INFO - Model CISCO,CATALYST 9500-40X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9500-40X+end+of+life+support+date
+2025-06-25 20:16:48,296 - INFO - Processing model: CISCO,CATALYST 9800-40
+2025-06-25 20:16:50,513 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9800-40
+2025-06-25 20:16:53,638 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9800-40
+2025-06-25 20:16:55,896 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9800-40+end+of+life+support+date
+2025-06-25 20:17:06,992 - INFO - Processing model: CISCO,CATALYST 9800-40
+2025-06-25 20:17:09,412 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9800-40
+2025-06-25 20:17:15,220 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9800-40
+2025-06-25 20:17:17,435 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9800-40+end+of+life+support+date
+2025-06-25 20:17:28,326 - INFO - Processing model: CISCO,CATALYST 9800-40
+2025-06-25 20:17:31,221 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST 9800-40
+2025-06-25 20:17:34,509 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST 9800-40
+2025-06-25 20:17:36,722 - INFO - Model CISCO,CATALYST 9800-40 not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+9800-40+end+of+life+support+date
+2025-06-25 20:17:47,369 - INFO - Processing model: CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:17:51,000 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:17:54,178 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:17:56,395 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C8500L-8S4X+end+of+life+support+date
+2025-06-25 20:18:07,728 - INFO - Processing model: CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:18:09,769 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:18:15,037 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:18:17,260 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C8500L-8S4X+end+of+life+support+date
+2025-06-25 20:18:28,201 - INFO - Processing model: CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:18:30,239 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:18:33,526 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C8500L-8S4X
+2025-06-25 20:18:35,741 - INFO - Model CISCO,CATALYST C8500L-8S4X not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C8500L-8S4X+end+of+life+support+date
+2025-06-25 20:18:46,628 - INFO - Processing model: CISCO,CATALYST C9200-48T
+2025-06-25 20:18:48,388 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9200-48T
+2025-06-25 20:18:53,741 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9200-48T
+2025-06-25 20:18:56,304 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9200-48T+end+of+life+support+date
+2025-06-25 20:19:07,671 - INFO - Processing model: CISCO,CATALYST C9200-48T
+2025-06-25 20:19:09,374 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9200-48T
+2025-06-25 20:19:13,133 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9200-48T
+2025-06-25 20:19:15,355 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9200-48T+end+of+life+support+date
+2025-06-25 20:19:26,212 - INFO - Processing model: CISCO,CATALYST C9200-48T
+2025-06-25 20:19:29,100 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9200-48T
+2025-06-25 20:19:32,710 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9200-48T
+2025-06-25 20:19:34,975 - INFO - Model CISCO,CATALYST C9200-48T not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9200-48T+end+of+life+support+date
+2025-06-25 20:19:45,887 - INFO - Processing model: CISCO,CATALYST C9300-24P
+2025-06-25 20:19:48,760 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-24P
+2025-06-25 20:19:52,309 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-24P
+2025-06-25 20:19:54,541 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-24P+end+of+life+support+date
+2025-06-25 20:20:06,495 - INFO - Processing model: CISCO,CATALYST C9300-24P
+2025-06-25 20:20:08,648 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-24P
+2025-06-25 20:20:11,759 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-24P
+2025-06-25 20:20:14,287 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-24P+end+of+life+support+date
+2025-06-25 20:20:25,166 - INFO - Processing model: CISCO,CATALYST C9300-24P
+2025-06-25 20:20:29,834 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-24P
+2025-06-25 20:20:33,721 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-24P
+2025-06-25 20:20:35,987 - INFO - Model CISCO,CATALYST C9300-24P not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-24P+end+of+life+support+date
+2025-06-25 20:20:46,657 - INFO - Processing model: CISCO,CATALYST C9300-24S
+2025-06-25 20:20:49,621 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-24S
+2025-06-25 20:20:53,197 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-24S
+2025-06-25 20:20:55,426 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-24S+end+of+life+support+date
+2025-06-25 20:21:06,318 - INFO - Processing model: CISCO,CATALYST C9300-24S
+2025-06-25 20:21:08,215 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-24S
+2025-06-25 20:21:11,183 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-24S
+2025-06-25 20:21:13,439 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-24S+end+of+life+support+date
+2025-06-25 20:21:24,131 - INFO - Processing model: CISCO,CATALYST C9300-24S
+2025-06-25 20:21:25,601 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-24S
+2025-06-25 20:21:28,641 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-24S
+2025-06-25 20:21:30,888 - INFO - Model CISCO,CATALYST C9300-24S not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-24S+end+of+life+support+date
+2025-06-25 20:21:41,486 - INFO - Processing model: CISCO,CATALYST C9300-48UXM
+2025-06-25 20:21:43,650 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-48UXM
+2025-06-25 20:21:48,356 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-48UXM
+2025-06-25 20:21:50,588 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-48UXM+end+of+life+support+date
+2025-06-25 20:22:01,490 - INFO - Processing model: CISCO,CATALYST C9300-48UXM
+2025-06-25 20:22:03,569 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-48UXM
+2025-06-25 20:22:07,021 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-48UXM
+2025-06-25 20:22:09,269 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-48UXM+end+of+life+support+date
+2025-06-25 20:22:20,014 - INFO - Processing model: CISCO,CATALYST C9300-48UXM
+2025-06-25 20:22:21,472 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300-48UXM
+2025-06-25 20:22:24,523 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300-48UXM
+2025-06-25 20:22:26,802 - INFO - Model CISCO,CATALYST C9300-48UXM not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300-48UXM+end+of+life+support+date
+2025-06-25 20:22:37,781 - INFO - Processing model: CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:22:40,614 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:22:46,444 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:22:48,664 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300L-24T-4G+end+of+life+support+date
+2025-06-25 20:22:59,546 - INFO - Processing model: CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:23:01,545 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:23:04,952 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:23:07,185 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300L-24T-4G+end+of+life+support+date
+2025-06-25 20:23:20,430 - INFO - Processing model: CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:23:23,070 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:23:28,287 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://www.ibm.com/docs/search?q=CISCO,CATALYST C9300L-24T-4G
+2025-06-25 20:23:30,492 - INFO - Model CISCO,CATALYST C9300L-24T-4G not found in content from https://duckduckgo.com/html/?q=CISCO,CATALYST+C9300L-24T-4G+end+of+life+support+date
+2025-06-25 20:23:40,884 - INFO - Processing model: CISCO,CMX 3375
+2025-06-25 20:23:44,385 - INFO - Model CISCO,CMX 3375 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CMX 3375
+2025-06-25 20:23:47,415 - INFO - Model CISCO,CMX 3375 not found in content from https://www.ibm.com/docs/search?q=CISCO,CMX 3375
+2025-06-25 20:23:49,624 - INFO - Model CISCO,CMX 3375 not found in content from https://duckduckgo.com/html/?q=CISCO,CMX+3375+end+of+life+support+date
+2025-06-25 20:24:00,403 - INFO - Processing model: CISCO,CMX 3375
+2025-06-25 20:24:01,902 - INFO - Model CISCO,CMX 3375 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CMX 3375
+2025-06-25 20:24:04,957 - INFO - Model CISCO,CMX 3375 not found in content from https://www.ibm.com/docs/search?q=CISCO,CMX 3375
+2025-06-25 20:24:07,195 - INFO - Model CISCO,CMX 3375 not found in content from https://duckduckgo.com/html/?q=CISCO,CMX+3375+end+of+life+support+date
+2025-06-25 20:24:17,680 - INFO - Processing model: CISCO,CMX 3375
+2025-06-25 20:24:21,931 - INFO - Model CISCO,CMX 3375 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,CMX 3375
+2025-06-25 20:24:24,998 - INFO - Model CISCO,CMX 3375 not found in content from https://www.ibm.com/docs/search?q=CISCO,CMX 3375
+2025-06-25 20:24:27,223 - INFO - Model CISCO,CMX 3375 not found in content from https://duckduckgo.com/html/?q=CISCO,CMX+3375+end+of+life+support+date
+2025-06-25 20:24:37,817 - INFO - Processing model: CISCO,ESA C395
+2025-06-25 20:24:39,975 - INFO - Model CISCO,ESA C395 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ESA C395
+2025-06-25 20:24:43,051 - INFO - Model CISCO,ESA C395 not found in content from https://www.ibm.com/docs/search?q=CISCO,ESA C395
+2025-06-25 20:24:45,268 - INFO - Model CISCO,ESA C395 not found in content from https://duckduckgo.com/html/?q=CISCO,ESA+C395+end+of+life+support+date
+2025-06-25 20:24:56,225 - INFO - Processing model: CISCO,ESA C395
+2025-06-25 20:24:58,763 - INFO - Model CISCO,ESA C395 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ESA C395
+2025-06-25 20:25:02,815 - INFO - Model CISCO,ESA C395 not found in content from https://www.ibm.com/docs/search?q=CISCO,ESA C395
+2025-06-25 20:25:05,021 - INFO - Model CISCO,ESA C395 not found in content from https://duckduckgo.com/html/?q=CISCO,ESA+C395+end+of+life+support+date
+2025-06-25 20:25:15,702 - INFO - Processing model: CISCO,ESA C395
+2025-06-25 20:25:17,631 - INFO - Model CISCO,ESA C395 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,ESA C395
+2025-06-25 20:25:20,699 - INFO - Model CISCO,ESA C395 not found in content from https://www.ibm.com/docs/search?q=CISCO,ESA C395
+2025-06-25 20:25:22,918 - INFO - Model CISCO,ESA C395 not found in content from https://duckduckgo.com/html/?q=CISCO,ESA+C395+end+of+life+support+date
+2025-06-25 20:25:33,488 - INFO - Processing model: CISCO,FIREPOWER 1120
+2025-06-25 20:25:36,923 - INFO - Model CISCO,FIREPOWER 1120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 1120
+2025-06-25 20:25:39,959 - INFO - Model CISCO,FIREPOWER 1120 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 1120
+2025-06-25 20:25:42,206 - INFO - Model CISCO,FIREPOWER 1120 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+1120+end+of+life+support+date
+2025-06-25 20:25:53,235 - INFO - Processing model: CISCO,FIREPOWER 1120
+2025-06-25 20:25:55,523 - INFO - Model CISCO,FIREPOWER 1120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 1120
+2025-06-25 20:25:58,536 - INFO - Model CISCO,FIREPOWER 1120 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 1120
+2025-06-25 20:26:00,757 - INFO - Model CISCO,FIREPOWER 1120 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+1120+end+of+life+support+date
+2025-06-25 20:26:11,310 - INFO - Processing model: CISCO,FIREPOWER 1120
+2025-06-25 20:26:12,786 - INFO - Model CISCO,FIREPOWER 1120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 1120
+2025-06-25 20:26:16,078 - INFO - Model CISCO,FIREPOWER 1120 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 1120
+2025-06-25 20:26:18,301 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+1120+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+1120+end+of+life+support+date&kp=1
+2025-06-25 20:26:29,098 - INFO - Processing model: CISCO,FIREPOWER 1140
+2025-06-25 20:26:30,597 - INFO - Model CISCO,FIREPOWER 1140 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 1140
+2025-06-25 20:26:33,699 - INFO - Model CISCO,FIREPOWER 1140 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 1140
+2025-06-25 20:26:35,893 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+1140+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+1140+end+of+life+support+date&kp=1
+2025-06-25 20:26:46,726 - INFO - Processing model: CISCO,FIREPOWER 1140
+2025-06-25 20:26:48,623 - INFO - Model CISCO,FIREPOWER 1140 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 1140
+2025-06-25 20:26:51,937 - INFO - Model CISCO,FIREPOWER 1140 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 1140
+2025-06-25 20:26:54,131 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+1140+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+1140+end+of+life+support+date&kp=1
+2025-06-25 20:27:04,798 - INFO - Processing model: CISCO,FIREPOWER 1140
+2025-06-25 20:27:06,966 - INFO - Model CISCO,FIREPOWER 1140 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 1140
+2025-06-25 20:27:10,473 - INFO - Model CISCO,FIREPOWER 1140 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 1140
+2025-06-25 20:27:12,663 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+1140+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+1140+end+of+life+support+date&kp=1
+2025-06-25 20:27:23,348 - INFO - Processing model: CISCO,FIREPOWER 2100
+2025-06-25 20:27:26,876 - INFO - Model CISCO,FIREPOWER 2100 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2100
+2025-06-25 20:27:30,157 - INFO - Model CISCO,FIREPOWER 2100 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2100
+2025-06-25 20:27:32,355 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2100+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2100+end+of+life+support+date&kp=1
+2025-06-25 20:27:43,426 - INFO - Processing model: CISCO,FIREPOWER 2100
+2025-06-25 20:27:45,562 - INFO - Model CISCO,FIREPOWER 2100 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2100
+2025-06-25 20:27:48,668 - INFO - Model CISCO,FIREPOWER 2100 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2100
+2025-06-25 20:27:50,870 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2100+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2100+end+of+life+support+date&kp=1
+2025-06-25 20:28:01,414 - INFO - Processing model: CISCO,FIREPOWER 2100
+2025-06-25 20:28:03,762 - INFO - Model CISCO,FIREPOWER 2100 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2100
+2025-06-25 20:28:15,564 - INFO - Model CISCO,FIREPOWER 2100 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2100
+2025-06-25 20:28:17,813 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2100+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2100+end+of+life+support+date&kp=1
+2025-06-25 20:28:28,723 - INFO - Processing model: CISCO,FIREPOWER 2120
+2025-06-25 20:28:30,562 - INFO - Model CISCO,FIREPOWER 2120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2120
+2025-06-25 20:28:34,169 - INFO - Model CISCO,FIREPOWER 2120 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2120
+2025-06-25 20:28:36,356 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2120+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2120+end+of+life+support+date&kp=1
+2025-06-25 20:28:47,360 - INFO - Processing model: CISCO,FIREPOWER 2120
+2025-06-25 20:28:48,893 - INFO - Model CISCO,FIREPOWER 2120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2120
+2025-06-25 20:28:53,937 - INFO - Model CISCO,FIREPOWER 2120 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2120
+2025-06-25 20:28:56,135 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2120+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2120+end+of+life+support+date&kp=1
+2025-06-25 20:29:06,729 - INFO - Processing model: CISCO,FIREPOWER 2120
+2025-06-25 20:29:10,798 - INFO - Model CISCO,FIREPOWER 2120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2120
+2025-06-25 20:29:15,128 - INFO - Model CISCO,FIREPOWER 2120 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2120
+2025-06-25 20:29:17,357 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2120+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2120+end+of+life+support+date&kp=1
+2025-06-25 20:29:27,924 - INFO - Processing model: CISCO,FIREPOWER 2130
+2025-06-25 20:29:29,515 - INFO - Model CISCO,FIREPOWER 2130 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2130
+2025-06-25 20:29:32,659 - INFO - Model CISCO,FIREPOWER 2130 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2130
+2025-06-25 20:29:34,886 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2130+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2130+end+of+life+support+date&kp=1
+2025-06-25 20:29:45,909 - INFO - Processing model: CISCO,FIREPOWER 2130
+2025-06-25 20:29:48,025 - INFO - Model CISCO,FIREPOWER 2130 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2130
+2025-06-25 20:30:00,424 - INFO - Model CISCO,FIREPOWER 2130 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2130
+2025-06-25 20:30:02,611 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2130+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2130+end+of+life+support+date&kp=1
+2025-06-25 20:30:13,154 - INFO - Processing model: CISCO,FIREPOWER 2130
+2025-06-25 20:30:15,953 - INFO - Model CISCO,FIREPOWER 2130 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 2130
+2025-06-25 20:30:21,748 - INFO - Model CISCO,FIREPOWER 2130 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 2130
+2025-06-25 20:30:23,949 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+2130+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+2130+end+of+life+support+date&kp=1
+2025-06-25 20:30:34,397 - INFO - Processing model: CISCO,FIREPOWER 4100
+2025-06-25 20:30:38,129 - INFO - Model CISCO,FIREPOWER 4100 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4100
+2025-06-25 20:30:41,242 - INFO - Model CISCO,FIREPOWER 4100 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4100
+2025-06-25 20:30:43,471 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4100+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,FIREPOWER+4100+end+of+life+support+date&kp=1
+2025-06-25 20:30:54,487 - INFO - Processing model: CISCO,FIREPOWER 4100
+2025-06-25 20:30:57,160 - INFO - Model CISCO,FIREPOWER 4100 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4100
+2025-06-25 20:31:00,821 - INFO - Model CISCO,FIREPOWER 4100 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4100
+2025-06-25 20:31:03,082 - INFO - Model CISCO,FIREPOWER 4100 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4100+end+of+life+support+date
+2025-06-25 20:31:13,881 - INFO - Processing model: CISCO,FIREPOWER 4100
+2025-06-25 20:31:16,893 - INFO - Model CISCO,FIREPOWER 4100 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4100
+2025-06-25 20:31:19,963 - INFO - Model CISCO,FIREPOWER 4100 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4100
+2025-06-25 20:31:22,252 - INFO - Model CISCO,FIREPOWER 4100 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4100+end+of+life+support+date
+2025-06-25 20:31:33,053 - INFO - Processing model: CISCO,FIREPOWER 4145
+2025-06-25 20:31:35,145 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4145
+2025-06-25 20:31:41,738 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4145
+2025-06-25 20:31:43,957 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4145+end+of+life+support+date
+2025-06-25 20:31:55,115 - INFO - Processing model: CISCO,FIREPOWER 4145
+2025-06-25 20:31:57,880 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4145
+2025-06-25 20:32:03,086 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4145
+2025-06-25 20:32:05,311 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4145+end+of+life+support+date
+2025-06-25 20:32:16,290 - INFO - Processing model: CISCO,FIREPOWER 4145
+2025-06-25 20:32:18,476 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4145
+2025-06-25 20:32:21,596 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4145
+2025-06-25 20:32:23,817 - INFO - Model CISCO,FIREPOWER 4145 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4145+end+of+life+support+date
+2025-06-25 20:32:34,500 - INFO - Processing model: CISCO,FIREPOWER 4215
+2025-06-25 20:32:38,397 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4215
+2025-06-25 20:32:46,013 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4215
+2025-06-25 20:32:48,267 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4215+end+of+life+support+date
+2025-06-25 20:32:59,267 - INFO - Processing model: CISCO,FIREPOWER 4215
+2025-06-25 20:33:04,433 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4215
+2025-06-25 20:33:07,472 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4215
+2025-06-25 20:33:09,681 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4215+end+of+life+support+date
+2025-06-25 20:33:20,636 - INFO - Processing model: CISCO,FIREPOWER 4215
+2025-06-25 20:33:22,552 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FIREPOWER 4215
+2025-06-25 20:33:26,258 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://www.ibm.com/docs/search?q=CISCO,FIREPOWER 4215
+2025-06-25 20:33:28,515 - INFO - Model CISCO,FIREPOWER 4215 not found in content from https://duckduckgo.com/html/?q=CISCO,FIREPOWER+4215+end+of+life+support+date
+2025-06-25 20:33:39,051 - INFO - Processing model: CISCO,FMC2600
+2025-06-25 20:33:41,437 - INFO - Model CISCO,FMC2600 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FMC2600
+2025-06-25 20:33:49,994 - INFO - Model CISCO,FMC2600 not found in content from https://www.ibm.com/docs/search?q=CISCO,FMC2600
+2025-06-25 20:33:52,291 - INFO - Model CISCO,FMC2600 not found in content from https://duckduckgo.com/html/?q=CISCO,FMC2600+end+of+life+support+date
+2025-06-25 20:34:03,535 - INFO - Processing model: CISCO,FMC2600
+2025-06-25 20:34:06,303 - INFO - Model CISCO,FMC2600 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FMC2600
+2025-06-25 20:34:10,104 - INFO - Model CISCO,FMC2600 not found in content from https://www.ibm.com/docs/search?q=CISCO,FMC2600
+2025-06-25 20:34:12,354 - INFO - Model CISCO,FMC2600 not found in content from https://duckduckgo.com/html/?q=CISCO,FMC2600+end+of+life+support+date
+2025-06-25 20:34:22,627 - INFO - Processing model: CISCO,FMC2600
+2025-06-25 20:34:25,382 - INFO - Model CISCO,FMC2600 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,FMC2600
+2025-06-25 20:34:28,696 - INFO - Model CISCO,FMC2600 not found in content from https://www.ibm.com/docs/search?q=CISCO,FMC2600
+2025-06-25 20:34:30,960 - INFO - Model CISCO,FMC2600 not found in content from https://duckduckgo.com/html/?q=CISCO,FMC2600+end+of+life+support+date
+2025-06-25 20:34:41,408 - INFO - Processing model: CISCO,Firepower 3120
+2025-06-25 20:34:43,012 - INFO - Model CISCO,Firepower 3120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,Firepower 3120
+2025-06-25 20:34:50,194 - INFO - Model CISCO,Firepower 3120 not found in content from https://www.ibm.com/docs/search?q=CISCO,Firepower 3120
+2025-06-25 20:34:52,435 - INFO - Model CISCO,Firepower 3120 not found in content from https://duckduckgo.com/html/?q=CISCO,Firepower+3120+end+of+life+support+date
+2025-06-25 20:35:03,686 - INFO - Processing model: CISCO,Firepower 3120
+2025-06-25 20:35:05,295 - INFO - Model CISCO,Firepower 3120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,Firepower 3120
+2025-06-25 20:35:08,474 - INFO - Model CISCO,Firepower 3120 not found in content from https://www.ibm.com/docs/search?q=CISCO,Firepower 3120
+2025-06-25 20:35:10,741 - INFO - Model CISCO,Firepower 3120 not found in content from https://duckduckgo.com/html/?q=CISCO,Firepower+3120+end+of+life+support+date
+2025-06-25 20:35:21,433 - INFO - Processing model: CISCO,Firepower 3120
+2025-06-25 20:35:23,074 - INFO - Model CISCO,Firepower 3120 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,Firepower 3120
+2025-06-25 20:35:26,292 - INFO - Model CISCO,Firepower 3120 not found in content from https://www.ibm.com/docs/search?q=CISCO,Firepower 3120
+2025-06-25 20:35:28,513 - INFO - Model CISCO,Firepower 3120 not found in content from https://duckduckgo.com/html/?q=CISCO,Firepower+3120+end+of+life+support+date
+2025-06-25 20:35:39,006 - INFO - Processing model: CISCO,MDS 9706/96
+2025-06-25 20:35:42,470 - INFO - Model CISCO,MDS 9706/96 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9706/96
+2025-06-25 20:35:46,554 - INFO - Model CISCO,MDS 9706/96 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9706/96
+2025-06-25 20:35:48,802 - INFO - Model CISCO,MDS 9706/96 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9706/96+end+of+life+support+date
+2025-06-25 20:35:59,665 - INFO - Processing model: CISCO,MDS 9706/96
+2025-06-25 20:36:02,443 - INFO - Model CISCO,MDS 9706/96 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9706/96
+2025-06-25 20:36:05,460 - INFO - Model CISCO,MDS 9706/96 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9706/96
+2025-06-25 20:36:07,689 - INFO - Model CISCO,MDS 9706/96 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9706/96+end+of+life+support+date
+2025-06-25 20:36:18,240 - INFO - Processing model: CISCO,MDS 9706/96
+2025-06-25 20:36:20,750 - INFO - Model CISCO,MDS 9706/96 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9706/96
+2025-06-25 20:36:27,352 - INFO - Model CISCO,MDS 9706/96 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9706/96
+2025-06-25 20:36:29,563 - INFO - Model CISCO,MDS 9706/96 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9706/96+end+of+life+support+date
+2025-06-25 20:36:40,116 - INFO - Processing model: CISCO,MDS 9710/192
+2025-06-25 20:36:42,316 - INFO - Model CISCO,MDS 9710/192 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9710/192
+2025-06-25 20:36:45,505 - INFO - Model CISCO,MDS 9710/192 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9710/192
+2025-06-25 20:36:47,714 - INFO - Model CISCO,MDS 9710/192 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9710/192+end+of+life+support+date
+2025-06-25 20:36:58,523 - INFO - Processing model: CISCO,MDS 9710/192
+2025-06-25 20:37:00,151 - INFO - Model CISCO,MDS 9710/192 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9710/192
+2025-06-25 20:37:03,333 - INFO - Model CISCO,MDS 9710/192 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9710/192
+2025-06-25 20:37:05,593 - INFO - Model CISCO,MDS 9710/192 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9710/192+end+of+life+support+date
+2025-06-25 20:37:16,105 - INFO - Processing model: CISCO,MDS 9710/192
+2025-06-25 20:37:18,842 - INFO - Model CISCO,MDS 9710/192 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9710/192
+2025-06-25 20:37:21,924 - INFO - Model CISCO,MDS 9710/192 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9710/192
+2025-06-25 20:37:24,182 - INFO - Model CISCO,MDS 9710/192 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9710/192+end+of+life+support+date
+2025-06-25 20:37:34,677 - INFO - Processing model: CISCO,MDS 9710/288
+2025-06-25 20:37:36,563 - INFO - Model CISCO,MDS 9710/288 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9710/288
+2025-06-25 20:37:40,110 - INFO - Model CISCO,MDS 9710/288 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9710/288
+2025-06-25 20:37:42,444 - INFO - Model CISCO,MDS 9710/288 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9710/288+end+of+life+support+date
+2025-06-25 20:37:53,470 - INFO - Processing model: CISCO,MDS 9710/288
+2025-06-25 20:37:59,805 - INFO - Model CISCO,MDS 9710/288 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9710/288
+2025-06-25 20:38:03,345 - INFO - Model CISCO,MDS 9710/288 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9710/288
+2025-06-25 20:38:05,572 - INFO - Model CISCO,MDS 9710/288 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9710/288+end+of+life+support+date
+2025-06-25 20:38:16,248 - INFO - Processing model: CISCO,MDS 9710/288
+2025-06-25 20:38:18,426 - INFO - Model CISCO,MDS 9710/288 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,MDS 9710/288
+2025-06-25 20:38:21,481 - INFO - Model CISCO,MDS 9710/288 not found in content from https://www.ibm.com/docs/search?q=CISCO,MDS 9710/288
+2025-06-25 20:38:23,703 - INFO - Model CISCO,MDS 9710/288 not found in content from https://duckduckgo.com/html/?q=CISCO,MDS+9710/288+end+of+life+support+date
+2025-06-25 20:38:34,315 - INFO - Processing model: CISCO,N9K-C9336C-FX2
+2025-06-25 20:38:36,359 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,N9K-C9336C-FX2
+2025-06-25 20:38:40,031 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,N9K-C9336C-FX2
+2025-06-25 20:38:42,255 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,N9K-C9336C-FX2+end+of+life+support+date
+2025-06-25 20:38:53,123 - INFO - Processing model: CISCO,N9K-C9336C-FX2
+2025-06-25 20:38:55,776 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,N9K-C9336C-FX2
+2025-06-25 20:38:59,260 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,N9K-C9336C-FX2
+2025-06-25 20:39:01,477 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,N9K-C9336C-FX2+end+of+life+support+date
+2025-06-25 20:39:12,243 - INFO - Processing model: CISCO,N9K-C9336C-FX2
+2025-06-25 20:39:14,226 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,N9K-C9336C-FX2
+2025-06-25 20:39:17,281 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,N9K-C9336C-FX2
+2025-06-25 20:39:19,495 - INFO - Model CISCO,N9K-C9336C-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,N9K-C9336C-FX2+end+of+life+support+date
+2025-06-25 20:39:30,266 - INFO - Processing model: CISCO,N9K-C9348GC-FXP
+2025-06-25 20:39:33,326 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://www.ibm.com/support/pages/search?q=CISCO,N9K-C9348GC-FXP
+2025-06-25 20:39:45,107 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://www.ibm.com/docs/search?q=CISCO,N9K-C9348GC-FXP
+2025-06-25 20:39:47,344 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://duckduckgo.com/html/?q=CISCO,N9K-C9348GC-FXP+end+of+life+support+date
+2025-06-25 20:39:58,142 - INFO - Processing model: CISCO,N9K-C9348GC-FXP
+2025-06-25 20:40:01,033 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://www.ibm.com/support/pages/search?q=CISCO,N9K-C9348GC-FXP
+2025-06-25 20:40:04,643 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://www.ibm.com/docs/search?q=CISCO,N9K-C9348GC-FXP
+2025-06-25 20:40:06,858 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://duckduckgo.com/html/?q=CISCO,N9K-C9348GC-FXP+end+of+life+support+date
+2025-06-25 20:40:17,459 - INFO - Processing model: CISCO,N9K-C9348GC-FXP
+2025-06-25 20:40:21,609 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://www.ibm.com/support/pages/search?q=CISCO,N9K-C9348GC-FXP
+2025-06-25 20:40:26,675 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://www.ibm.com/docs/search?q=CISCO,N9K-C9348GC-FXP
+2025-06-25 20:40:28,906 - INFO - Model CISCO,N9K-C9348GC-FXP not found in content from https://duckduckgo.com/html/?q=CISCO,N9K-C9348GC-FXP+end+of+life+support+date
+2025-06-25 20:40:39,443 - INFO - Processing model: CISCO,NEXUS 92348GC-X
+2025-06-25 20:40:42,063 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 92348GC-X
+2025-06-25 20:40:45,204 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 92348GC-X
+2025-06-25 20:40:47,436 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+92348GC-X+end+of+life+support+date
+2025-06-25 20:40:58,538 - INFO - Processing model: CISCO,NEXUS 92348GC-X
+2025-06-25 20:41:03,761 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 92348GC-X
+2025-06-25 20:41:09,857 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 92348GC-X
+2025-06-25 20:41:12,109 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+92348GC-X+end+of+life+support+date
+2025-06-25 20:41:22,743 - INFO - Processing model: CISCO,NEXUS 92348GC-X
+2025-06-25 20:41:27,089 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 92348GC-X
+2025-06-25 20:41:30,240 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 92348GC-X
+2025-06-25 20:41:32,499 - INFO - Model CISCO,NEXUS 92348GC-X not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+92348GC-X+end+of+life+support+date
+2025-06-25 20:41:43,043 - INFO - Processing model: CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:41:48,930 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:41:56,470 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:41:58,730 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93108TC-FX3P+end+of+life+support+date
+2025-06-25 20:42:09,705 - INFO - Processing model: CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:42:11,886 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:42:17,617 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:42:19,833 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93108TC-FX3P+end+of+life+support+date
+2025-06-25 20:42:30,495 - INFO - Processing model: CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:42:32,210 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:42:35,369 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93108TC-FX3P
+2025-06-25 20:42:37,624 - INFO - Model CISCO,NEXUS 93108TC-FX3P not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93108TC-FX3P+end+of+life+support+date
+2025-06-25 20:42:48,291 - INFO - Processing model: CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:42:51,981 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:42:54,996 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:42:57,195 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93180YC-FX3+end+of+life+support+date
+2025-06-25 20:43:07,896 - INFO - Processing model: CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:43:10,572 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:43:14,145 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:43:16,377 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93180YC-FX3+end+of+life+support+date
+2025-06-25 20:43:26,803 - INFO - Processing model: CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:43:29,308 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:43:33,872 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93180YC-FX3
+2025-06-25 20:43:36,093 - INFO - Model CISCO,NEXUS 93180YC-FX3 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93180YC-FX3+end+of+life+support+date
+2025-06-25 20:43:46,654 - INFO - Processing model: CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:43:50,352 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:43:54,995 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:43:57,215 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93240YC-FX2+end+of+life+support+date
+2025-06-25 20:44:08,025 - INFO - Processing model: CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:44:10,786 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:44:15,798 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:44:18,043 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93240YC-FX2+end+of+life+support+date
+2025-06-25 20:44:28,811 - INFO - Processing model: CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:44:30,358 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:44:33,580 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93240YC-FX2
+2025-06-25 20:44:35,826 - INFO - Model CISCO,NEXUS 93240YC-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93240YC-FX2+end+of+life+support+date
+2025-06-25 20:44:46,536 - INFO - Processing model: CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:44:50,217 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:44:53,583 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:44:55,819 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93360YC-FX2+end+of+life+support+date
+2025-06-25 20:45:06,740 - INFO - Processing model: CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:45:08,912 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:45:12,841 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:45:15,062 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93360YC-FX2+end+of+life+support+date
+2025-06-25 20:45:25,838 - INFO - Processing model: CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:45:27,275 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:45:30,377 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 93360YC-FX2
+2025-06-25 20:45:32,640 - INFO - Model CISCO,NEXUS 93360YC-FX2 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+93360YC-FX2+end+of+life+support+date
+2025-06-25 20:45:43,234 - INFO - Processing model: CISCO,NEXUS 9504/1
+2025-06-25 20:45:45,738 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9504/1
+2025-06-25 20:45:49,060 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9504/1
+2025-06-25 20:45:51,283 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9504/1+end+of+life+support+date
+2025-06-25 20:46:02,243 - INFO - Processing model: CISCO,NEXUS 9504/1
+2025-06-25 20:46:04,184 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9504/1
+2025-06-25 20:46:07,171 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9504/1
+2025-06-25 20:46:09,369 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9504/1+end+of+life+support+date
+2025-06-25 20:46:20,454 - INFO - Processing model: CISCO,NEXUS 9504/1
+2025-06-25 20:46:22,967 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9504/1
+2025-06-25 20:46:26,664 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9504/1
+2025-06-25 20:46:28,888 - INFO - Model CISCO,NEXUS 9504/1 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9504/1+end+of+life+support+date
+2025-06-25 20:46:39,642 - INFO - Processing model: CISCO,NEXUS 9504/4
+2025-06-25 20:46:41,752 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9504/4
+2025-06-25 20:46:44,823 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9504/4
+2025-06-25 20:46:47,084 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9504/4+end+of+life+support+date
+2025-06-25 20:46:58,320 - INFO - Processing model: CISCO,NEXUS 9504/4
+2025-06-25 20:46:59,692 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9504/4
+2025-06-25 20:47:02,733 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9504/4
+2025-06-25 20:47:04,945 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9504/4+end+of+life+support+date
+2025-06-25 20:47:15,844 - INFO - Processing model: CISCO,NEXUS 9504/4
+2025-06-25 20:47:17,353 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9504/4
+2025-06-25 20:47:20,367 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9504/4
+2025-06-25 20:47:22,643 - INFO - Model CISCO,NEXUS 9504/4 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9504/4+end+of+life+support+date
+2025-06-25 20:47:33,337 - INFO - Processing model: CISCO,NEXUS 9508/1
+2025-06-25 20:47:35,052 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/1
+2025-06-25 20:47:38,211 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/1
+2025-06-25 20:47:40,445 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/1+end+of+life+support+date
+2025-06-25 20:47:51,391 - INFO - Processing model: CISCO,NEXUS 9508/1
+2025-06-25 20:47:54,330 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/1
+2025-06-25 20:47:57,386 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/1
+2025-06-25 20:47:59,593 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/1+end+of+life+support+date
+2025-06-25 20:48:10,205 - INFO - Processing model: CISCO,NEXUS 9508/1
+2025-06-25 20:48:12,538 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/1
+2025-06-25 20:48:17,670 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/1
+2025-06-25 20:48:19,896 - INFO - Model CISCO,NEXUS 9508/1 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/1+end+of+life+support+date
+2025-06-25 20:48:30,448 - INFO - Processing model: CISCO,NEXUS 9508/4
+2025-06-25 20:48:36,791 - INFO - Model CISCO,NEXUS 9508/4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/4
+2025-06-25 20:48:40,284 - INFO - Model CISCO,NEXUS 9508/4 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/4
+2025-06-25 20:48:42,525 - INFO - Model CISCO,NEXUS 9508/4 not found in content from https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/4+end+of+life+support+date
+2025-06-25 20:48:53,405 - INFO - Processing model: CISCO,NEXUS 9508/4
+2025-06-25 20:48:57,733 - INFO - Model CISCO,NEXUS 9508/4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/4
+2025-06-25 20:49:00,964 - INFO - Model CISCO,NEXUS 9508/4 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/4
+2025-06-25 20:49:03,185 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/4+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,NEXUS+9508/4+end+of+life+support+date&kp=1
+2025-06-25 20:49:13,868 - INFO - Processing model: CISCO,NEXUS 9508/4
+2025-06-25 20:49:16,594 - INFO - Model CISCO,NEXUS 9508/4 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/4
+2025-06-25 20:49:20,001 - INFO - Model CISCO,NEXUS 9508/4 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/4
+2025-06-25 20:49:22,205 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/4+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,NEXUS+9508/4+end+of+life+support+date&kp=1
+2025-06-25 20:49:32,835 - INFO - Processing model: CISCO,NEXUS 9508/8
+2025-06-25 20:49:34,414 - INFO - Model CISCO,NEXUS 9508/8 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/8
+2025-06-25 20:49:37,724 - INFO - Model CISCO,NEXUS 9508/8 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/8
+2025-06-25 20:49:39,912 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/8+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,NEXUS+9508/8+end+of+life+support+date&kp=1
+2025-06-25 20:49:50,828 - INFO - Processing model: CISCO,NEXUS 9508/8
+2025-06-25 20:49:53,522 - INFO - Model CISCO,NEXUS 9508/8 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/8
+2025-06-25 20:49:56,634 - INFO - Model CISCO,NEXUS 9508/8 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/8
+2025-06-25 20:49:58,843 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/8+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,NEXUS+9508/8+end+of+life+support+date&kp=1
+2025-06-25 20:50:09,442 - INFO - Processing model: CISCO,NEXUS 9508/8
+2025-06-25 20:50:11,398 - INFO - Model CISCO,NEXUS 9508/8 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,NEXUS 9508/8
+2025-06-25 20:50:14,642 - INFO - Model CISCO,NEXUS 9508/8 not found in content from https://www.ibm.com/docs/search?q=CISCO,NEXUS 9508/8
+2025-06-25 20:50:16,829 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,NEXUS+9508/8+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,NEXUS+9508/8+end+of+life+support+date&kp=1
+2025-06-25 20:50:27,446 - INFO - Processing model: CISCO,SNS-3695-K9
+2025-06-25 20:50:33,261 - INFO - Model CISCO,SNS-3695-K9 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,SNS-3695-K9
+2025-06-25 20:50:38,620 - INFO - Model CISCO,SNS-3695-K9 not found in content from https://www.ibm.com/docs/search?q=CISCO,SNS-3695-K9
+2025-06-25 20:50:40,816 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,SNS-3695-K9+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,SNS-3695-K9+end+of+life+support+date&kp=1
+2025-06-25 20:50:51,581 - INFO - Processing model: CISCO,SNS-3695-K9
+2025-06-25 20:50:53,466 - INFO - Model CISCO,SNS-3695-K9 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,SNS-3695-K9
+2025-06-25 20:51:02,581 - INFO - Model CISCO,SNS-3695-K9 not found in content from https://www.ibm.com/docs/search?q=CISCO,SNS-3695-K9
+2025-06-25 20:51:04,781 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,SNS-3695-K9+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,SNS-3695-K9+end+of+life+support+date&kp=1
+2025-06-25 20:51:15,386 - INFO - Processing model: CISCO,SNS-3695-K9
+2025-06-25 20:51:19,952 - INFO - Model CISCO,SNS-3695-K9 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,SNS-3695-K9
+2025-06-25 20:51:23,012 - INFO - Model CISCO,SNS-3695-K9 not found in content from https://www.ibm.com/docs/search?q=CISCO,SNS-3695-K9
+2025-06-25 20:51:25,206 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,SNS-3695-K9+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,SNS-3695-K9+end+of+life+support+date&kp=1
+2025-06-25 20:51:35,998 - INFO - Processing model: CISCO,SNS-3755
+2025-06-25 20:51:37,774 - INFO - Model CISCO,SNS-3755 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,SNS-3755
+2025-06-25 20:51:40,863 - INFO - Model CISCO,SNS-3755 not found in content from https://www.ibm.com/docs/search?q=CISCO,SNS-3755
+2025-06-25 20:51:43,097 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,SNS-3755+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,SNS-3755+end+of+life+support+date&kp=1
+2025-06-25 20:51:53,937 - INFO - Processing model: CISCO,SNS-3755
+2025-06-25 20:51:55,477 - INFO - Model CISCO,SNS-3755 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,SNS-3755
+2025-06-25 20:51:58,905 - INFO - Model CISCO,SNS-3755 not found in content from https://www.ibm.com/docs/search?q=CISCO,SNS-3755
+2025-06-25 20:52:01,078 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,SNS-3755+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,SNS-3755+end+of+life+support+date&kp=1
+2025-06-25 20:52:11,843 - INFO - Processing model: CISCO,SNS-3755
+2025-06-25 20:52:14,657 - INFO - Model CISCO,SNS-3755 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,SNS-3755
+2025-06-25 20:52:17,764 - INFO - Model CISCO,SNS-3755 not found in content from https://www.ibm.com/docs/search?q=CISCO,SNS-3755
+2025-06-25 20:52:19,936 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,SNS-3755+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,SNS-3755+end+of+life+support+date&kp=1
+2025-06-25 20:52:30,819 - INFO - Processing model: CISCO,UCS C220 M5
+2025-06-25 20:52:36,472 - INFO - Model CISCO,UCS C220 M5 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,UCS C220 M5
+2025-06-25 20:52:39,549 - INFO - Model CISCO,UCS C220 M5 not found in content from https://www.ibm.com/docs/search?q=CISCO,UCS C220 M5
+2025-06-25 20:52:41,747 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,UCS+C220+M5+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,UCS+C220+M5+end+of+life+support+date&kp=1
+2025-06-25 20:52:52,893 - INFO - Processing model: CISCO,UCS C220 M5
+2025-06-25 20:52:57,759 - INFO - Model CISCO,UCS C220 M5 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,UCS C220 M5
+2025-06-25 20:53:01,302 - INFO - Model CISCO,UCS C220 M5 not found in content from https://www.ibm.com/docs/search?q=CISCO,UCS C220 M5
+2025-06-25 20:53:03,502 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,UCS+C220+M5+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,UCS+C220+M5+end+of+life+support+date&kp=1
+2025-06-25 20:53:14,280 - INFO - Processing model: CISCO,UCS C220 M5
+2025-06-25 20:53:15,885 - INFO - Model CISCO,UCS C220 M5 not found in content from https://www.ibm.com/support/pages/search?q=CISCO,UCS C220 M5
+2025-06-25 20:53:18,968 - INFO - Model CISCO,UCS C220 M5 not found in content from https://www.ibm.com/docs/search?q=CISCO,UCS C220 M5
+2025-06-25 20:53:21,148 - ERROR - Request Error scraping https://duckduckgo.com/html/?q=CISCO,UCS+C220+M5+end+of+life+support+date: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=CISCO,UCS+C220+M5+end+of+life+support+date&kp=1
+2025-06-25 20:53:32,018 - INFO - Summary saved to Scraping_Summary_20250625_152331.json
+2025-06-25 20:53:32,022 - INFO - Scraping completed successfully
+2025-06-25 20:56:46,606 - INFO - Loaded file details from date_extraction_output_20250625_152354\comprehensive_summary_20250625_152354.json
+2025-06-25 20:57:11,470 - INFO - Opened file in notepad viewer: C:\Web_Scrapping_Projects\Scrapping\Bin\WebScrapperCodeBase\date_extraction_output_20250625_152354\prompt_20250625_152354_batch_5.txt
+2025-06-25 21:14:25,670 - INFO - Loaded file details from date_extraction_output_20250625_152354\comprehensive_summary_20250625_152354.json
+2025-06-25 21:14:38,236 - INFO - Opened file in notepad viewer: C:\Web_Scrapping_Projects\Scrapping\Bin\WebScrapperCodeBase\date_extraction_output_20250625_152354\prompt_20250625_152354_batch_305.txt
